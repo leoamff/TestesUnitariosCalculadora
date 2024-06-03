@@ -1,0 +1,13 @@
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\bin\Debug\netcoreapp3.1\New Talents.exe
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\bin\Debug\netcoreapp3.1\New Talents.deps.json
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\bin\Debug\netcoreapp3.1\New Talents.runtimeconfig.json
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\bin\Debug\netcoreapp3.1\New Talents.runtimeconfig.dev.json
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\bin\Debug\netcoreapp3.1\New Talents.dll
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\bin\Debug\netcoreapp3.1\New Talents.pdb
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\obj\Debug\netcoreapp3.1\New Talents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\obj\Debug\netcoreapp3.1\New Talents.AssemblyInfoInputs.cache
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\obj\Debug\netcoreapp3.1\New Talents.AssemblyInfo.cs
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\obj\Debug\netcoreapp3.1\New Talents.csproj.CoreCompileInputs.cache
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\obj\Debug\netcoreapp3.1\New Talents.dll
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\obj\Debug\netcoreapp3.1\New Talents.pdb
+C:\Users\lfmas\OneDrive\Área de Trabalho\New Talents\obj\Debug\netcoreapp3.1\New Talents.genruntimeconfig.cache
